@@ -1,17 +1,17 @@
 # Site settings
 title_left    : "Think"
 title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+description   : "My thoughts and encouters"
+keywords      : "blog, web, minimalist, thinkspace, nithinnivi, nithin "
 url           : https://nithinivi.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+twitter_username  : "nithinnivi"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/
@@ -24,7 +24,7 @@ destination : ./_site
 # Sass configuration
 sass:
   sass_dir  : assets/scss
-  style     : compressed # expanded
+  style     : expanded # expanded ,compressed
 
 # Author settings
 author:
