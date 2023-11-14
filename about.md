@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+
+👋 Hi, I’m निധിin ;@nithinivi
+
+📫 How to reach me 
+- Email -- nithinnivi@gmail.com
+- Twitter -- [nithinivi](https://twitter.com/nithinnivi)
+- Linkedin -- [nithinvarghesethenamparambil](https://www.linkedin.com/in/nithin-varghese-thenamparambil/)https://www.linkedin.com/in/nithin-varghese-thenamparambil/
