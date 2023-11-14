@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 ---
 
+👋 Hi, I’m निധിin [(@nithinivi),https://github.com/nithinivi]
 
-👋 Hi, I’m निധിin ;@nithinivi
+- 👀 I’m interested in numerical Computing, logic, and Machine learning
+- 🌱 I’m currently learning C++  
+- 💞️ I’m looking to collaborate on anything interesting.
 
 📫 How to reach me 
+
 - Email -- nithinnivi@gmail.com
-- Twitter -- [nithinivi](https://twitter.com/nithinnivi)
-- Linkedin -- [nithinvarghesethenamparambil](https://www.linkedin.com/in/nithin-varghese-thenamparambil/)https://www.linkedin.com/in/nithin-varghese-thenamparambil/
+- Twitter -- https://twitter.com/nithinnivi
+- Linkedin -- https://www.linkedin.com/in/nithin-varghese-thenamparambil/
