@@ -36,7 +36,7 @@ void removeMatches(Map<? extends String, ? extends Number> map, int max) {
 }
 ```
 
-Use of var here removes the noisy type maifest which improves the readabiltiy
+The use of var here removes the noisy type maifest ,which improves the readabiltiy
 
 ```java
 void removeMatches(Map<? extends String, ? extends Number> map, int max) {
@@ -46,9 +46,9 @@ void removeMatches(Map<? extends String, ? extends Number> map, int max) {
 }
 ```
 ---
-> Developers are not comfortable with type interferncing.
+> Developers are not comfortable with type inferncing.
 
-Java developers have already embraced intermediated intefered types in streams. In the following code 
+Java developers have already embraced intermediated infered types in streams. In the following code 
 
 ```java 
 int maxWeight = blocks.stream()
